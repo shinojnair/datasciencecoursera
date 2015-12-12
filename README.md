@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-## Data Science Couresera
+## Data Science Coursera
